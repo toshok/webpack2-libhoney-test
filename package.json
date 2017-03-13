@@ -1,0 +1,21 @@
+{
+  "name": "webpack2-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/foo.js",
+  "scripts": {
+    "webpack": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "libhoney": "^1.0.0-beta.6",
+    "webpack": "^2.2.1"
+  },
+  "devDependencies": {
+    "babel-loader": "^6.4.0",
+    "babel-core": "^6.24.0",
+    "babel-preset-es2015-node4": "^2.1.1"
+  }
+}
